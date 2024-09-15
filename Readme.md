@@ -1,1 +1,1 @@
-####COMP-3123 LAB EXERCISES
+COMP-3123 - Full Stack Development Lab Exercises
